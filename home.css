@@ -142,3 +142,14 @@ p{
     width: 210px;
     font-family:Cursive;
 }
+
+
+@media screen and (max-width: 480px) {
+  .logo{
+    width: 250px;
+  }
+  p
+  {
+    text-align: center;
+  }
+}
